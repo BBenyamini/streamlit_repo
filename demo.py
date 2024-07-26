@@ -48,13 +48,3 @@ import xarray as xr
 import matplotlib.pyplot as plt'''
 )
 
-weather=pd.read_csv("/home/bebu0001/mydrive/streamlit_repo/meteo/430_meteo_pcp_trig.csv", sep=";")
-weather.head()
-
-st.button()
-
-st.header("Display the header of the weather data")
-if st.button("Display header"):
-    st.write(weather.head())
-else:
-    st.write(weather.tail())
