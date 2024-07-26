@@ -1,0 +1,257 @@
+plotID;country_code;site_name;lat;long;altitude;topographic_position;sampling_area;slope;slope_flag;land_use;soil_type;geology;geochemistry;MAP;MAT;PET
+DCD1;DRC;ikoma;-2.58476;28.7173;1708;V;3;27;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD10;DRC;ikoma;-2.58463;28.71763;1706;V;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD11;DRC;ikoma;-2.58454;28.71771;1702;V;3;18;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD12;DRC;ikoma;-2.58444;28.71777;1702;V;3;18;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD2;DRC;ikoma;-2.5847;28.71737;1708;V;3;27;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD3;DRC;ikoma;-2.58462;28.71744;1706;V;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD4;DRC;ikoma;-2.58454;28.71752;1706;V;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD5;DRC;ikoma;-2.58445;28.71759;1706;V;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD6;DRC;ikoma;-2.58434;28.71765;1717;V;3;34;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD7;DRC;ikoma;-2.58488;28.71741;1701;V;3;14;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD8;DRC;ikoma;-2.5848;28.71749;1701;V;3;14;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCD9;DRC;ikoma;-2.58471;28.71756;1701;V;3;14;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCP1;DRC;ikoma;-2.65522;28.68843;1656;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP10;DRC;ikoma;-2.65546;28.68854;1655;PL;3;6;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP11;DRC;ikoma;-2.65536;28.68857;1655;PL;3;6;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP12;DRC;ikoma;-2.65525;28.68859;1655;PL;3;6;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP2;DRC;ikoma;-2.65533;28.68841;1656;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP3;DRC;ikoma;-2.65545;28.68838;1656;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP4;DRC;ikoma;-2.65556;28.68835;1655;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP5;DRC;ikoma;-2.65568;28.68833;1655;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP6;DRC;ikoma;-2.65578;28.68831;1659;PL;3;6;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP7;DRC;ikoma;-2.6558;28.68847;1659;PL;3;6;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP8;DRC;ikoma;-2.65569;28.68848;1655;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCP9;DRC;ikoma;-2.65557;28.6885;1655;PL;3;5;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1548;18.43;1350
+DCS1;DRC;ikoma;-2.58392;28.71614;1741;S;3;21;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS10;DRC;ikoma;-2.58459;28.7172;1713;S;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS11;DRC;ikoma;-2.58371;28.71623;1748;S;3;24;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS12;DRC;ikoma;-2.58377;28.71635;1741;S;3;19;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS13;DRC;ikoma;-2.58385;28.71649;1739;S;3;18;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS14;DRC;ikoma;-2.58393;28.71659;1735;S;3;20;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS15;DRC;ikoma;-2.58401;28.71671;1735;S;3;20;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS16;DRC;ikoma;-2.58409;28.71683;1735;S;3;20;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS17;DRC;ikoma;-2.58418;28.71695;1723;S;3;25;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS18;DRC;ikoma;-2.58427;28.71707;1723;S;3;25;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS19;DRC;ikoma;-2.58436;28.71718;1722;S;3;29;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS2;DRC;ikoma;-2.58397;28.71627;1741;S;3;21;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS20;DRC;ikoma;-2.58443;28.7173;1713;S;3;28;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS21;DRC;ikoma;-2.58353;28.71635;1745;S;3;21;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS22;DRC;ikoma;-2.58361;28.71645;1741;S;3;19;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS23;DRC;ikoma;-2.58369;28.71656;1741;S;3;19;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS24;DRC;ikoma;-2.58377;28.71668;1738;S;3;13;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS25;DRC;ikoma;-2.58385;28.7168;1735;S;3;20;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS26;DRC;ikoma;-2.58393;28.71693;1732;S;3;22;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS27;DRC;ikoma;-2.58402;28.71706;1732;S;3;22;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS28;DRC;ikoma;-2.58412;28.71718;1722;S;3;29;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS29;DRC;ikoma;-2.5842;28.7173;1722;S;3;29;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS3;DRC;ikoma;-2.58403;28.71639;1739;S;3;18;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS30;DRC;ikoma;-2.58428;28.71741;1717;S;3;34;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS4;DRC;ikoma;-2.58409;28.71649;1739;S;3;18;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS5;DRC;ikoma;-2.58418;28.71661;1729;S;3;24;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1593;17.77;1305
+DCS6;DRC;ikoma;-2.58424;28.71673;1729;S;3;24;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS7;DRC;ikoma;-2.58436;28.71684;1729;S;3;24;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS8;DRC;ikoma;-2.58444;28.71695;1719;S;3;23;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DCS9;DRC;ikoma;-2.58452;28.71708;1719;S;3;23;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DRC_catchment;DRC;ikoma;-2.58418;28.71695;1729;S;3;24;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DRCPL1;DRC;muganzo;-2.25128;28.82287;1648;V;9;2;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1710;17.28;1206
+DRCPL10;DRC;lwiro;-2.23755;28.80599;1731;PL;9;0;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1789;18;1274
+DRCPL11;DRC;inera;-2.32121;28.78661;1734;US;9;15;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1715;18.08;1300
+DRCPL12;DRC;inera_mulungu;-2.33712;28.77859;1774;US;9;16;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1700;17.93;1300
+DRCPL13;DRC;cibanda;-2.1105;28.89857;1566;US;9;15;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1577;17.24;1184
+DRCPL14;DRC;cibanda;-2.11489;28.89978;1517;US;9;10;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1577;17.24;1184
+DRCPL15;DRC;lwako;-2.1162;28.9012;1500;US;9;19;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1539;17.91;1232
+DRCPL16;DRC;karhaza;-2.10423;28.91073;1494;MS;9;22;2;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1551;17.81;1225
+DRCPL17;DRC;munanira;-2.10296;28.90886;1487;MS;9;17;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1551;17.81;1225
+DRCPL18;DRC;munanira;-2.10042;28.90767;1531;MS;9;38;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1589;17.49;1206
+DRCPL19;DRC;karhaza;-2.10103;28.91283;1525;V;9;0;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1551;17.81;1225
+DRCPL2;DRC;muganzo;-2.25184;28.82813;1662;US;9;9;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1697;17.19;1198
+DRCPL20;DRC;muhongoza;-2.07301;28.89625;1572;V;9;2;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1671;18.12;1265
+DRCPL21;DRC;muhongoza;-2.07602;28.89812;1592;PL;9;3;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1676;17.72;1233
+DRCPL22;DRC;muhongoza;-2.07859;28.89932;1596;PL;9;4;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1676;17.72;1233
+DRCPL23;DRC;ihusi;-2.09324;28.90421;1599;MS;9;25;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1652;17.05;1173
+DRCPL24;DRC;nyambuga;-2.10637;28.90594;1486;V;9;8;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1589;17.49;1206
+DRCPL25;DRC;karambi;-2.74802;28.67962;1656;PL;9;4;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1557;18.47;1359
+DRCPL26;DRC;buseni_camoka;-2.13405;28.86645;1477;V;9;4;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1544;17.36;1185
+DRCPL27;DRC;lwege_kasheke;-2.14933;28.85589;1487;US;9;5;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;16.93;1160
+DRCPL28;DRC;kalambo;-2.58518;28.72824;1752;MS;9;25;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1606;17.47;1291
+DRCPL29;DRC;kalambo_walungiu;-2.58591;28.72922;1769;US;9;10;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1606;17.47;1291
+DRCPL3;DRC;unknown;-2.20397;28.82848;1635;V;9;1;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1656;17.17;1208
+DRCPL30;DRC;kashe;-2.5884;28.7261;1750;US;9;15;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1606;17.47;1291
+DRCPL31;DRC;kashi;-2.58786;28.72552;1730;MS;9;30;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1606;17.47;1291
+DRCPL32;DRC;nyabuterekwa;-2.58984;28.72421;1701;V;9;3;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DRCPL33;DRC;karambi_walungu;-2.74802;28.64962;1659;PL;9;4;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1540;19;1391
+DRCPL34;DRC;siamusia;-2.75688;28.67694;1657;PL;9;3;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1550;18.48;1355
+DRCPL35;DRC;ntabunge;-2.76074;28.67397;1583;V;9;0;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1543;18.67;1360
+DRCPL36;DRC;unknown;-2.76091;28.67372;1585;MS;9;43;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1543;18.67;1360
+DRCPL37;DRC;unknown;-2.7616;28.67373;1608;US;9;18;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1543;18.67;1360
+DRCPL38;DRC;katumba;-2.76217;28.67332;1621;PL;9;2;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1543;18.67;1360
+DRCPL39;DRC;katumba;-2.76217;28.67332;1621;PL;9;2;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1543;18.67;1360
+DRCPL4;DRC;mubumbano;-2.19256;28.82667;1658;V;9;2;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1678;17.21;1223
+DRCPL40;DRC;walungu;-2.58491;28.71777;1708;V;9;0;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1576;17.72;1301
+DRCPL5;DRC;muganzo;-2.1961;28.81857;1723;US;9;9;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1699;17.79;1276
+DRCPL6;DRC;kabumbe;-2.164;28.83355;1721;US;9;9;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1686;17.69;1271
+DRCPL7;DRC;kabamba;-2.19759;28.84674;1581;MS;9;33;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1613;17.62;1232
+DRCPL8;DRC;kabamba;-2.19945;28.84434;1505;V;9;0;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1613;17.62;1232
+DRCPL9;DRC;kabamba;-2.19901;28.84712;1583;US;9;17;1;cropland;umbric Ferralols;recent eruptive rocks / basalt;mafic;1613;17.62;1232
+KBPL1;DRC;nyamwambaza;-2.30501;28.75427;2227;PL;1600;3;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+KBPL10;DRC;mangaza;-2.31439;28.75246;2181;V;1600;1;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL11;DRC;mushomola;-2.32866;28.72988;2306;V;1600;2;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1930;14.72;1084
+KBPL12;DRC;mushomola;-2.32768;28.72956;2310;V;1600;2;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1930;14.72;1084
+KBPL13;DRC;unknown;-2.31379;28.75295;2192;US;1600;17;2;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL14;DRC;unknown;-2.31249;28.7526;2204;US;1600;11;2;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL15;DRC;unknown;-2.31159;28.75269;2203;US;1600;19;2;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL16;DRC;unknown;-2.31153;28.75294;2201;US;1600;37;2;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL2;DRC;cizungu;-2.29873;28.76129;2208;PL;1600;3;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1930;15.69;1133
+KBPL3;DRC;cizungu;-2.29844;28.76112;2208;PL;1600;3;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1930;15.69;1133
+KBPL4;DRC;nyamwambaza;-2.30532;28.75442;2216;US;1600;36;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+KBPL5;DRC;nyamwambaza;-2.30411;28.75482;2224;US;1600;20;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+KBPL6;DRC;mangaza;-2.31398;28.7524;2188;US;1600;15;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1919;15.47;1122
+KBPL7;DRC;nyamwambaza;-2.30447;28.75392;2248;MS;1600;50;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+KBPL8;DRC;nyamwambaza;-2.30532;28.75477;2210;MS;1600;60;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+KBPL9;DRC;nyamwambaza;-2.30447;28.75519;2207;MS;1600;49;1;forest;umbric Ferralols;recent eruptive rocks / basalt;mafic;1924;15.14;1106
+NPL1;RW;mujabagiro;-2.4645;29.10346;1908;PL;1600;3;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.22;1233
+NPL10;RW;mujabagiro;-2.46391;29.10289;1889;V;1600;1;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.22;1233
+NPL11;RW;mujabagiro;-2.46366;29.1031;1884;V;1600;1;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.22;1233
+NPL12;RW;mujabagiro;-2.46321;29.10369;1882;V;1600;1;1;forest;Haplic Podzols;Schistes, argilites, ardoises, phyllites;mixed;1691;17.22;1233
+NPL2;RW;mujabagiro;-2.46337;29.09542;1939;PL;1600;3;1;forest;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux;mixed;1691;17.37;1247
+NPL3;RW;mujabagiro;-2.46328;29.09489;1936;PL;1600;3;1;forest;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux;mixed;1691;17.37;1247
+NPL4;RW;mujabagiro;-2.4623;29.09644;1927;US;1600;15;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.37;1247
+NPL5;RW;mujabagiro;-2.46254;29.09666;1926;US;1600;16;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.37;1247
+NPL6;RW;mujabagiro;-2.46823;29.10455;1893;US;1600;9;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1684;17.08;1231
+NPL7;RW;mujabagiro;-2.46401;29.10335;1902;MS;1600;58;1;forest;Haplic Podzols;Quartzites, grls quartzito-schisteux;mixed;1691;17.22;1233
+NPL8;RW;mujabagiro;-2.46319;29.10213;1891;MS;1600;60;1;forest;Humic Acrisols / Humic (Ferralic) Cambisols;Quartzites, grls quartzito-schisteux;mixed;1691;17.22;1233
+NPL9;RW;mujabagiro;-2.46381;29.09542;1935;MS;1600;60;1;forest;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux;mixed;1691;17.37;1247
+RF1;RW;bururi;-2.44465;29.19125;1741;US;9;25;1;cropland;Dystric Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1598;17.61;1251
+RF10;RW;murambi_cyato;-2.39234;29.2221;1717;V;9;3;1;cropland;Humic Acrisols / Humic Ferralsols;Colluvions d'origine ind terminee   /Alluvions;mixed;1532;17.87;1273
+RF11;RW;gakenke_cyato;-2.39338;29.22039;1708;V;9;3;1;cropland;Humic (Dystric) Cambisols;Schistes grrseux, quartziteux et phyllades;mixed;1532;17.87;1273
+RF12;RW;gakenke_cyato;-2.39408;29.21978;1735;MS;9;30;1;cropland;Dystric (Humic)  Cambisols / Haplic (Humic) Alisols;Schistes grrseux, quartziteux et phyllades;mixed;1532;17.87;1273
+RF13;RW;muremure_cyato;-2.39139;29.18546;1787;US;9;8;1;cropland;Humic (Dystric) Cambisols;Schistes grrseux, quartziteux et phyllades;mixed;1508;18.31;1309
+RF14;RW;muremure_cyato;-2.39661;29.18405;1687;V;9;3;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1520;18.26;1307
+RF15;RW;karehe_cyato;-2.3932;29.19602;1832;MS;9;31;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1525;18.07;1295
+RF16;RW;mutiti_cyato;-2.40017;29.19068;1711;MS;9;50;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1444;18.86;1336
+RF17;RW;mutiti_cyato;-2.39263;29.19599;1837;PL;9;3;1;cropland;#N/A;#N/A;mixed;1525;18.07;1295
+RF18;RW;cyato;-2.38735;29.19499;1837;PL;9;13;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1536;17.88;1287
+RF19;RW;kanjongo;-2.35073;29.15532;1758;V;9;3;1;cropland;Humic (Dystric) Cambisols;Schistes grrseux, quartziteux et phyllades;mixed;1425;18.78;1342
+RF2;RW;bururi;-2.44498;29.19133;1712;V;9;5;1;cropland;Dystric Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1598;17.61;1251
+RF20;RW;kanjongo;-2.34632;29.15806;1847;MS;9;42;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1511;17.93;1297
+RF21;RW;kanjongo;-2.34641;29.15844;1831;US;9;13;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1520;17.99;1307
+RF22;RW;kanjongo;-2.30119;29.26194;1952;MS;9;40;1;cropland;Haplic Acrisols;Schistes, argilites, ardoises, phyllites;mixed;1568;16.91;1216
+RF23;RW;kanjongo;-2.35017;29.15527;1762;US;9;23;1;cropland;Humic (Dystric) Cambisols;Schistes grrseux, quartziteux et phyllades;mixed;1425;18.78;1342
+RF24;RW;raro;-2.34212;29.1707;1799;US;9;15;1;cropland;Humic (Dystric) Cambisols;Schistes, argilites, ardoises, phyllites /Psammites;mixed;1534;18.11;1316
+RF25;RW;raro;-2.33661;29.1748;1719;PL;9;3;1;cropland;Humic Alisols / Rhodic (Haplic) Luvisols;Roches acides micacies (granitoede);mixed;1467;18.31;1314
+RF26;RW;raro;-2.33831;29.17009;1761;PL;9;3;1;cropland;Humic (Dystric) Cambisols;Roches acides micacies (granitoede);mixed;1467;18.31;1314
+RF27;RW;raro;-2.33824;29.17105;1762;PL;9;3;1;cropland;Humic (Dystric) Cambisols;Roches acides: granite, tonalite, gneiss;mixed;1467;18.31;1314
+RF28;RW;kamina_kanjongo;-2.34548;29.16754;1785;MS;9;40;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1534;18.11;1316
+RF29;RW;gisagara_kanjongo;-2.34188;29.15865;1814;PL;9;11;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1520;17.99;1307
+RF3;RW;bururi;-2.4448;29.19781;1741;MS;9;50;1;cropland;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1564;17.95;1263
+RF30;RW;kirambo_kanjongo;-2.31625;29.15136;1556;V;9;3;1;cropland;Humic Acrisols / Humic Ferralsols;Roches basiques: gabbro, basalte, dol⬷rite, amphibolite /Micaschistes;mixed;1332;18.35;1278
+RF31;RW;bushekeri;-2.40755;29.05834;1644;V;9;11;1;cropland;Humic (Dystric) Cambisols;Schistes grrseux, quartziteux et phyllades;mixed;1429;17.97;1272
+RF32;RW;bushekeri;-2.40687;29.05876;1648;V;9;2;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1429;17.97;1272
+RF33;RW;bushekeri;-2.40994;29.05478;1569;US;9;23;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1373;18.24;1281
+RF34;RW;bushekeri;-2.41071;29.05455;1565;MS;9;42;1;cropland;Humic (Dystric) Cambisols;Quartzites, grls quartzito-schisteux /Tourbes;mixed;1373;18.24;1281
+RF4;RW;murukungu;-2.44553;29.19744;1743;PL;9;3;1;cropland;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1564;17.95;1263
+RF5;RW;murukungu;-2.44528;29.19753;1749;US;9;17;1;cropland;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1564;17.95;1263
+RF6;RW;bururi;-2.44648;29.19811;1745;MS;9;41;1;cropland;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1564;17.95;1263
+RF7;RW;cyato;-2.39663;29.21799;1790;PL;9;5;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1532;17.87;1273
+RF8;RW;cyato;-2.40124;29.22479;1907;US;9;13;1;cropland;Haplic Acrisols;Schistes grrseux, quartziteux et phyllades;mixed;1586;17.43;1248
+RF9;RW;murambi_cyato;-2.38953;29.22276;1840;MS;9;50;1;cropland;Humic Acrisols / Humic Ferralsols;Schistes grrseux, quartziteux et phyllades;mixed;1569;17.5;1252
+roadcut1;RW;mujabagiro;-2.47477;29.24398;2395;MS;3;58;2;forest;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1750;14.27;1080
+roadcut2;RW;mujabagiro;-2.47477;29.24398;2395;MS;3;58;2;forest;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1750;14.27;1080
+roadcut3;RW;mujabagiro;-2.47477;29.24398;2395;MS;3;58;2;forest;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1750;14.27;1080
+roadcut4;RW;mujabagiro;-2.48489;29.18291;2300;MS;3;86;2;forest;Humic Acrisols / Humic (Ferralic) Cambisols;Schistes, argilites, ardoises, phyllites;mixed;1708;16;1175
+U_catchment;UG;kanyawara;0.57;30.33;1489;S;3;19;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1435
+U_quarry;UG;durama;0.53188;30.32541;1543;US;3;16;2;cropland;Luvic Andosols;Volcanic ash, Toro schists and phyllites;felsic;1430;19.9;1442
+UCD1;UG;kanyawara;0.56834;30.33314;1468;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCD10;UG;kanyawara;0.56821;30.3334;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD11;UG;kanyawara;0.56822;30.33329;1468;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCD12;UG;kanyawara;0.56822;30.33315;1468;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCD2;UG;kanyawara;0.56832;30.33329;1468;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCD3;UG;kanyawara;0.56832;30.33341;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD4;UG;kanyawara;0.56832;30.33353;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD5;UG;kanyawara;0.56831;30.33363;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD6;UG;kanyawara;0.56832;30.33376;1466;V;3;10;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD7;UG;kanyawara;0.56823;30.33376;1466;V;3;10;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD8;UG;kanyawara;0.5682;30.33364;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCD9;UG;kanyawara;0.56822;30.33355;1467;V;3;12;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP1;UG;kanyawara;0.57068;30.33365;1509;PL;3;8;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP10;UG;kanyawara;0.57042;30.33575;1507;PL;3;5;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP11;UG;kanyawara;0.57047;30.33577;1508;PL;3;3;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP12;UG;kanyawara;0.57045;30.33587;1508;PL;3;3;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP2;UG;kanyawara;0.57059;30.33379;1509;PL;3;7;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP3;UG;kanyawara;0.57056;30.33395;1509;PL;3;5;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP4;UG;kanyawara;0.57058;30.33421;1509;PL;3;5;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP5;UG;kanyawara;0.57118;30.33293;1510;PL;3;1;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCP6;UG;kanyawara;0.57111;30.33298;1510;PL;3;1;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCP7;UG;kanyawara;0.57056;30.33577;1508;PL;3;3;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP8;UG;kanyawara;0.57053;30.33589;1508;PL;3;2;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCP9;UG;kanyawara;0.57039;30.33583;1507;PL;3;5;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS1;UG;kanyawara;0.57002;30.33343;1501;S;3;17;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS10;UG;kanyawara;0.56868;30.33317;1473;S;3;21;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCS11;UG;kanyawara;0.56999;30.33369;1500;S;3;19;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS12;UG;kanyawara;0.56985;30.33366;1495;S;3;16;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS13;UG;kanyawara;0.56972;30.33364;1495;S;3;16;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS14;UG;kanyawara;0.56958;30.3336;1492;S;3;11;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS15;UG;kanyawara;0.56941;30.33359;1492;S;3;11;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS16;UG;kanyawara;0.56927;30.33353;1490;S;3;18;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS17;UG;kanyawara;0.56913;30.33352;1490;S;3;18;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS18;UG;kanyawara;0.56899;30.33352;1482;S;3;28;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS19;UG;kanyawara;0.56886;30.33347;1482;S;3;28;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS2;UG;kanyawara;0.56988;30.33342;1501;S;3;17;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS20;UG;kanyawara;0.56866;30.33342;1472;S;3;23;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS21;UG;kanyawara;0.56998;30.33395;1499;S;3;20;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS22;UG;kanyawara;0.56985;30.33394;1494;S;3;16;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS23;UG;kanyawara;0.56972;30.3339;1494;S;3;16;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS24;UG;kanyawara;0.56957;30.33384;1491;S;3;17;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS25;UG;kanyawara;0.56944;30.33382;1491;S;3;17;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS26;UG;kanyawara;0.56927;30.33381;1486;S;3;25;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS27;UG;kanyawara;0.56913;30.33376;1486;S;3;25;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS28;UG;kanyawara;0.56899;30.33377;1478;S;3;28;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS29;UG;kanyawara;0.56884;30.33374;1478;S;3;28;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS3;UG;kanyawara;0.56974;30.3334;1495;S;3;16;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS30;UG;kanyawara;0.56867;30.33371;1470;S;3;21;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS4;UG;kanyawara;0.56959;30.33336;1497;S;3;18;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS5;UG;kanyawara;0.56944;30.33335;1492;S;3;14;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1463;19.53;1425
+UCS6;UG;kanyawara;0.56927;30.33332;1489;S;3;19;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCS7;UG;kanyawara;0.56914;30.33328;1489;S;3;19;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCS8;UG;kanyawara;0.56901;30.33322;1481;S;3;26;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UCS9;UG;kanyawara;0.56888;30.3332;1481;S;3;26;2;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1454;19.64;1435
+UF1;UG;kazingo;0.63469;30.16044;1714;V;9;9;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1518;18.81;1367
+UF10;UG;unknown;0.5216;30.16291;1549;PL;9;2;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1462;19.33;1403
+UF11;UG;kitumba;0.51599;30.1529;1569;PL;9;3;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1470;18.99;1375
+UF12;UG;karugaya;0.5135;30.14298;1633;MS;9;30;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1480;18.82;1358
+UF13;UG;unknown;0.50622;30.14962;1620;US;9;18;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1455;18.6;1350
+UF14;UG;unknown;0.50967;30.13565;1667;MS;9;35;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1467;18.98;1370
+UF15;UG;nsura;0.5638;30.14336;1657;US;9;3;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1486;19.02;1378
+UF16;UG;sura2;0.56149;30.13951;1689;V;9;3;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1471;19.02;1381
+UF17;UG;kibati;0.55664;30.14218;1708;V;9;3;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1474;18.94;1376
+UF18;UG;unknown;0.55721;30.14156;1722;MS;9;50;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1461;18.85;1373
+UF19;UG;kibate;0.55603;30.12913;1792;US;9;5;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1451;18.47;1345
+UF2;UG;unknown;0.61337;30.15642;1719;MS;9;20;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1512;18.57;1350
+UF20;UG;kibate;0.5559;30.1288;1797;PL;9;4;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1451;18.47;1345
+UF21;UG;kibate;0.55874;30.13781;1706;MS;9;35;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1471;19.02;1381
+UF22;UG;mitandi;0.5975;30.15108;1791;MS;9;40;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1503;18.62;1352
+UF23;UG;mitandi;0.5955;30.1514;1760;V;9;1;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1503;18.62;1352
+UF24;UG;mitandi;0.59876;30.14752;1824;US;9;10;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1490;18.41;1342
+UF25;UG;kibwa;0.59882;30.14458;1830;MS;9;35;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1490;18.41;1342
+UF26;UG;mitandi;0.59674;30.1518;1768;V;9;1;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1503;18.62;1352
+UF3;UG;unknown;0.6072;30.1601;1677;MS;9;35;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1512;18.82;1367
+UF4;UG;unknown;0.55418;30.14805;1638;US;9;5;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1474;18.94;1376
+UF5;UG;unknown;0.5542;30.15016;1627;MS;9;35;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1472;18.98;1382
+UF6;UG;unknown;0.55546;30.16334;1587;V;9;5;1;cropland;Luvic Andosols;Gneisses, granites and volcanic ash;felsic;1461;18.95;1390
+UF7;UG;unknown;0.54906;30.14438;1648;V;9;5;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1483;19.07;1381
+UF8;UG;unknown;0.54868;30.14513;1666;PL;9;4;1;cropland;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1483;19.07;1381
+UF9;UG;unknown;0.55722;30.14;1728;PL;9;5;1;cropland;Lixic Ferralsols;Basement Complex granites, gneisses, amphibolites;felsic;1461;18.85;1373
+UPL1;UG;dura;0.46225;30.37403;1304;PL;1600;5;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL10;UG;dura;0.45994;30.37355;1272;V;1600;3;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL11;UG;dura;0.46054;30.37317;1277;V;1600;3;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL12;UG;dura;0.46028;30.37242;1271;V;1600;15;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL13;UG;kanyandungu;0.48391;30.35268;1400;V;1600;16;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1465
+UPL2;UG;dura;0.46245;30.37347;1304;PL;1600;3;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL3;UG;dura;0.46271;30.37291;1304;PL;1600;9;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL4;UG;dura;0.46078;30.37271;1280;US;1600;16;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL5;UG;dura;0.46083;30.37356;1286;US;1600;20;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL6;UG;dura;0.46021;30.37396;1279;US;1600;24;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1486
+UPL7;UG;kanyandungu;0.48398;30.35252;1409;MS;1600;50;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1465
+UPL8;UG;kanyandungu;0.4838;30.35238;1409;MS;1600;55;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1465
+UPL9;UG;kanyandungu;0.48337;30.35179;1420;MS;1600;55;1;forest;Lixic Ferralsols;Toro phyllites, schists and amphibolites;felsic;1697;19.2;1465

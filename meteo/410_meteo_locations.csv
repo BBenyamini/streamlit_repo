@@ -1,0 +1,7 @@
+stationID;station_name;lat_deg;long_deg;elev_m;device_type;no_param
+1;Bugulumiza;-2.324457;28.740818;2424;Meter ATMOS 41;6
+2;Bukavu;-2.499979;28.845009;1661;Meter ATMOS 41;6
+3;Kibale;0.561767;30.356808;1513;Meter ATMOS 14, ECRN-100;4
+4;Lukananda;-2.344073;28.750937;1661;Meter ATMOS 41;6
+5;Nyungwe;-2.460503;29.095251;1931;Meter ATMOS 14, ECRN-100;3
+6;Walungu;-2.583984;28.715298;1757;Meter ATMOS 14, ECRN-100;4
