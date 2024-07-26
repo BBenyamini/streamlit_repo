@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import holoviews as hv
 import numpy as np
 import altair as alt
 
